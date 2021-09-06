@@ -576,11 +576,33 @@ http://42.117.74.171:8899/udp/225.1.1.224:30120
 #EXTINF:-1 group-title="Mua Sắm",BTV11 TOP Home Shopping
 http://42.117.74.171:8899/udp/225.1.4.84:30120
 #-------------------DRM-------------------#
-#EXTINF:-1 group-title="K+",K+1 HD (DRM)
-http://42.117.74.171:8899/udp/225.1.1.5:30120
-#EXTINF:-1 group-title="K+",K+NS HD (DRM)
-http://42.117.74.171:8899/udp/225.1.1.6:30120
-#EXTINF:-1 group-title="K+",K+PM HD (DRM)
-http://42.117.74.171:8899/udp/225.1.1.73:30120
-#EXTINF:-1 group-title="K+",K+PC HD (DRM)
-http://42.117.74.171:8899/udp/225.1.1.77:30120
+
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+
+#EXTINF:-1 group-title="đổi link" tvg-logo="https://goldencup.vn/wp-content/uploads/2017/09/fotolia_84282280-maquette-maintenance-2.jpg",đổi link
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://gg.gg/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://goldencup.vn/wp-content/uploads/2017/09/fotolia_84282280-maquette-maintenance-2.jpg",Vui lòng ko get qua app khác tks!
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://gg.gg/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",🔗Link1|http://gg.gg/247sport-ht
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://gg.gg/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",🔗Link2|http://bom.to/247sport-ht
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://gg.gg/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",App IPTV Pro Chọn HW trình mặc định để play
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://gg.gg/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",App Tivimate play tốt
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://gg.gg/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",làm mới list trước khi xem
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://gg.gg/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",Nhóm Cakhiatv đúng giờ mới có link
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://gg.gg/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",khuyến khích lên web xem !
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
